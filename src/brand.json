@@ -1,0 +1,42 @@
+ [
+    {
+      "name": "Maruti Suzuki",
+      "logo": "https://static.businessworld.in/article/article_extra_large_image/1575798918_086eW9_maruti_suzuki_india_domestic_sales_in_april_up_by_14_37681.png",
+      "id": "1"
+    },
+
+    {
+      "name": "Hyundai",
+      "logo": "https://cdn.worldvectorlogo.com/logos/hyundai-motor-company-2.svg",
+      "id": "2"
+    },
+    {
+      "name": "Renault",
+      "logo": "https://i.pinimg.com/736x/4b/07/a8/4b07a8cfaa3d76aab6a0fe74f6028fad.jpg",
+      "id": "3"
+    },
+
+    {
+      "name": "Honda",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Honda_Canada.webp",
+      "id": "4"
+    },
+
+    {
+      "name": "Tata",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tata_logo.svg/1200px-Tata_logo.svg.png",
+      "id": "5"
+    },
+
+    {
+      "name": "Ford",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ford-Motor-Company-Logo.png/1200px-Ford-Motor-Company-Logo.png",
+      "id": "6"
+    },
+    {
+      "name": "VolksWagen",
+      "logo": "https://m.atcdn.co.uk/ect/media/w600/1df2a327c62e44cea9317cb8d6434e8b.jpg",
+      "id": "7"
+    }
+  ]
+

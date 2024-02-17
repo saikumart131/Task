@@ -1,0 +1,10 @@
+
+.cards img{
+  /* width: 200px !important;
+  height: 150px !important; */
+  object-fit: contain;
+  text-align: center;
+}
+.MuiFormControl-root {
+  margin: 10px !important;
+}
